@@ -4,12 +4,6 @@
 
 Notion Data Audit reads one Notion data source, checks whether its structure is dependable enough for people and AI tools, and explains every issue with concrete evidence. It can preview safe suggestions, but the MVP never writes back automatically.
 
-Built by [John Karakoulas](https://github.com/jkaral) as a product-engineering project for a Notion software engineering internship application.
-
-> This is an independent portfolio project and is not affiliated with or endorsed by Notion Labs, Inc.
-
-New to the codebase? Start with the [plain-English walkthrough](docs/SIMPLE_WALKTHROUGH.md).
-
 ## The 90-second tour
 
 1. Open the app in **Demo workspace** mode.
